@@ -16,3 +16,8 @@ Future improvements
 - e-ink display
 - data logging
 - enclosure
+
+Libraries to download
+-Adafruit GFX
+-Adafruit SSD1306
+-DHT sensor library
